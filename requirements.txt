@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+supabase
+python-dotenv
+sentence-transformers
+pypdf
+openai
